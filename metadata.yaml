@@ -1,0 +1,39 @@
+_repo: Discoveries-in-Australia-Volume-2To-the-Islands-in-the-Arafura-Sea_12146
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Stokes, John Lort
+    alias: Stokes, J. L. (John Lort)
+    birthdate: 1811
+    deathdate: 1885
+    gutenberg_agent_id: '4242'
+    url: http://www.gutenberg.org/2009/agents/4242
+    wikipedia: http://en.wikipedia.org/wiki/John_Lort_Stokes
+description: ''
+gutenberg_bookshelf: Australia
+gutenberg_issued: '2004-04-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '12146'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Natural history -- Australia'
+- !lcsh 'Australia -- Description and travel'
+- !lcc 'DU'
+- !lcsh 'Australia -- Discovery and exploration'
+- GITenberg
+title: 'Discoveries in Australia, Volume 2
+
+  Discoveries in Australia; with an Account of the Coasts and Rivers
+
+  Explored and Surveyed During the Voyage of H.M.S. Beagle, in The
+
+  Years 1837-38-39-40-41-42-43. By Command of the Lords Commissioners
+
+  Of the Admiralty. Also a Narrative of Captain Owen Stanley''s Visits
+
+  To the Islands in the Arafura Sea'
+url: http://www.gutenberg.org/ebooks/12146
