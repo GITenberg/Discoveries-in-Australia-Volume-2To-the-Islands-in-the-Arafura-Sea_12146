@@ -1,5 +1,8 @@
 _repo: Discoveries-in-Australia-Volume-2To-the-Islands-in-the-Arafura-Sea_12146
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Stokes, John Lort
@@ -10,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/4242
     wikipedia: http://en.wikipedia.org/wiki/John_Lort_Stokes
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/12146#Discoveries-in-Australia-Volume-2To-the-Islands-in-the-Arafura-Sea
 gutenberg_bookshelf: Australia
 gutenberg_issued: '2004-04-01'
 gutenberg_type: Text
